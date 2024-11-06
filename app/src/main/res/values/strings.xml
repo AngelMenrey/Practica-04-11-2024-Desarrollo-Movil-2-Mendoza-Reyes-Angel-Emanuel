@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Practica-04-11-2024</string>
+    <string name="empleados">Lista Empleados</string>
+    <string name="registro">Registros</string>
 </resources>
